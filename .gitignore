@@ -1,0 +1,12 @@
+Client/cocos2d/*
+Client/proj.win32/*
+Client/proj.ios_mac/*
+Client/proj.linux/*
+Client/proj.android/*
+Client/proj.android-studio/*
+Client/proj.android/*
+Client/proj.android-studio/*
+Client/CMakeLists.txt
+Client/.cocos-project.json
+Client/Resources/*
+
